@@ -1,3 +1,3 @@
 # Demo
-Just a Demo Repository
+Just a Demo Repository.
 Author - Vipul Bhot
